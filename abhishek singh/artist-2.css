@@ -1,0 +1,15 @@
+.card1{
+    background-image: url(images/abs-11.jpg);
+}
+.card2{
+    background-image: url(images/abs-22.jpg);
+}
+.card3{
+    background-image: url(images/abs-33.jpg);
+}
+.card4{
+    background-image: url(images/abs-44.jpg);
+}
+.card:hover{
+    transform: translateY(-10px);
+}
